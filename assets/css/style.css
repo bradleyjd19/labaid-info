@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../images/labbg-dark.jpg"); 
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#logo {
+  margin: 2rem auto;
+  display: block;
+}
+
+#infoContainer {
+  margin: 0 12rem;
+  padding: 2rem;
+  border: 3px solid white;
+}
+
+#info {
+  font-size: 1.5rem;
+  color: white;  
+  font-weight: bold;
+}
+
+#labaidLink {
+  color: #F96714;
+}
